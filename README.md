@@ -4,4 +4,4 @@
 
 Habr: https://habr.com/ru/users/voiddruid
 
-Telegram: @nu11_pointer_exception
+Telegram: @voiddruid
